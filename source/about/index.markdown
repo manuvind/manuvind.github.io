@@ -11,4 +11,13 @@ Hi, my name is Anuvind V. Menon and welcome to my personal website. It mainly se
 
 Now for a little bit about myself, currently I am a Junior studying Electrical Engineering and Computer Science at UC Berkeley. If you would like to know more please see my [resume].
 
+Also, see my profiles on the following sites:
+
+1.	Fork me on [Github]
+2.	Follow me on [Twitter]
+3.	Something something [LinkedIn]
+
 [resume]:{{ site.url }}/assets/anuvindmenonv3.pdf
+[Github]:https://github.com/manuvind
+[Twitter]:https://twitter.com/AnuvindMenon
+[LinkedIn]:http://www.linkedin.com/pub/anuvind-menon/5a/121/148
