@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cleanpress | Anuvind Venu Menon]]></title>
+  <link href="http://localhost:4000/blog/categories/cleanpress/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2013-12-27T21:06:35-07:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name><![CDATA[Anuvind Venu Menon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://localhost:4000/blog/2013/12/27/first-post/"/>
+    <updated>2013-12-27T19:56:19-07:00</updated>
+    <id>http://localhost:4000/blog/2013/12/27/first-post</id>
+    <content type="html"><![CDATA[<p>Following the archetype layed out before me I have chosen the ubiquitous title of &ldquo;First Post&rdquo; for my first blog post. Now never having written a blog before I am unsure of the writing style I should follow or how I should structure these things. Bearing this in my mind I guess I should start with giving credit where credit is due.</p>
+
+<!--more-->
+
+
+<p>The creation of this blog/personal website occurred thanks largely to the opensource blogging framework <a href="http://octopress.org/">Octopress</a> built by Brandon Mathis on top of <a href="http://jekyllrb.com/">Jekyll</a>, the blog aware static site generator. I chose Octopress primarily due to it&rsquo;s ease of use in generating blog posts and pages with given css and javascripts. So I can focus mostly on content and if need be tweak the look of the site further down the road. Also, I like jekyll&rsquo;s philosophy of creating a static site with necessary html, css, and javascript pages, since I believe anything more for a personal website is a bit too much.</p>
+
+<p>Furthermore, this site utilizes the <a href="https://github.com/macjasp/cleanpress">cleanpress</a> Octopress theme built by <a href="https://github.com/macjasp">macjasp</a>. I made use of this theme due the clean form factor and design that it employed. Also, I feel that this style naturally focuses the user on the content which should be the focus of this personal website/blog.</p>
+
+<p>Alright, I think I have gotten enough experience with <a href="http://daringfireball.net/projects/markdown/syntax">markdown</a> for now.</p>
+]]></content>
+  </entry>
+  
+</feed>
