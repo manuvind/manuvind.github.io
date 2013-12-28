@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cleanpress | Anuvind Venu Menon]]></title>
-  <link href="http://localhost:4000/blog/categories/cleanpress/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
-  <updated>2013-12-27T21:06:35-07:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://manuvind.github.io/blog/categories/cleanpress/atom.xml" rel="self"/>
+  <link href="http://manuvind.github.io/"/>
+  <updated>2013-12-27T21:33:27-07:00</updated>
+  <id>http://manuvind.github.io/</id>
   <author>
     <name><![CDATA[Anuvind Venu Menon]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://localhost:4000/blog/2013/12/27/first-post/"/>
+    <link href="http://manuvind.github.io/blog/2013/12/27/first-post/"/>
     <updated>2013-12-27T19:56:19-07:00</updated>
-    <id>http://localhost:4000/blog/2013/12/27/first-post</id>
+    <id>http://manuvind.github.io/blog/2013/12/27/first-post</id>
     <content type="html"><![CDATA[<p>Following the archetype layed out before me I have chosen the ubiquitous title of &ldquo;First Post&rdquo; for my first blog post. Now never having written a blog before I am unsure of the writing style I should follow or how I should structure these things. Bearing this in my mind I guess I should start with giving credit where credit is due.</p>
 
 <!--more-->
