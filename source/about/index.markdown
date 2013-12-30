@@ -17,7 +17,7 @@ Also, see my profiles on the following sites:
 2.	Follow me on [Twitter]
 3.	Something something [LinkedIn]
 
-[resume]:{{ site.url }}/assets/anuvindmenonv3.pdf
+[resume]:{{ site.url }}/assets/anuvindMenonPV3.pdf
 [Github]:https://github.com/manuvind
 [Twitter]:https://twitter.com/AnuvindMenon
 [LinkedIn]:http://www.linkedin.com/pub/anuvind-menon/5a/121/148
