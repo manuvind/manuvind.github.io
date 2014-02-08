@@ -9,7 +9,7 @@ footer: true
 ####Under Construction!
 <center><h2>Writeaway</h2></center>
 
-![](http://localhost:4000/assets/writeaway.jpg)
+![]({{ site.url }}/assets/writeaway.jpg)
 
 -> Writeaway is an online real time code editor for multiple users. It includes syntax highlighting for a variety of languages such as ruby and python. It utilizes MeteorJS and Bootstrap. It was built during Angel Hack Summer 2013 in Silicon Valley. [writeaway_source]<-
 
